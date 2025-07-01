@@ -1,0 +1,59 @@
+criaCartao(
+    'Matemática',
+    'O que é uma equação do 2º grau?',
+    'É uma equação da forma ax² + bx + c = 0, com a diferente de zero.'
+)
+
+criaCartao(
+    'Física',
+    'O que diz a 1ª Lei de Newton?',
+    'Que um corpo em repouso ou em movimento retilíneo uniforme tende a permanecer assim, se nenhuma força atuar sobre ele.'
+)
+
+criaCartao(
+    'Química',
+    'O que é um átomo?',
+    'É a menor parte da matéria que mantém as propriedades de um elemento químico.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é mitose?',
+    'É um tipo de divisão celular que forma duas células-filhas idênticas à célula-mãe.'
+)
+
+criaCartao(
+    'História',
+    'O que foi a Revolução Francesa?',
+    'Foi um movimento social e político que derrubou a monarquia e instaurou a república na França em 1789.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que é uma bacia hidrográfica?',
+    'É o conjunto de terras drenadas por um rio principal e seus afluentes.'
+)
+
+criaCartao(
+    'Português',
+    'O que é um sujeito oculto?',
+    'É aquele que não aparece na oração, mas pode ser identificado pelo contexto ou pela desinência verbal.'
+)
+
+criaCartao(
+    'Inglês',
+    'Como se diz “bom dia” em inglês?',
+    'Good morning.'
+)
+
+criaCartao(
+    'Filosofia',
+    'O que é ética?',
+    'É o estudo sobre o que é certo ou errado no comportamento humano.'
+)
+
+criaCartao(
+    'Sociologia',
+    'O que é cultura?',
+    'É o conjunto de valores, crenças, hábitos e conhecimentos de um grupo social.'
+)
